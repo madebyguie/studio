@@ -1,6 +1,6 @@
 "use client";
 
-export default function WhereMyCarPrivacy() {
+export default function ParkkedPrivacy() {
   return (
     <>
       <main className="">
@@ -20,20 +20,20 @@ export default function WhereMyCarPrivacy() {
 
               <div className="space-y-6 text-gray-700 leading-relaxed">
                 <p>
-                  WhereMyCar is built with a <strong>privacy-first</strong> approach. This policy explains how we handle information within the WhereMyCar mobile application.
+                  Parkked is built with a <strong>privacy-first</strong> approach. This policy explains how we handle information within the Parkked mobile application.
                 </p>
 
                 <div>
                   <h2 className="text-2xl font-semibold text-gray-800 mb-3">1. Data Collection & Usage</h2>
                   <ul className="list-disc pl-5 space-y-3">
                     <li>
-                      <strong>Location Data:</strong> WhereMyCar requires access to your device’s <strong>Precise Location</strong> to pin your car’s position and show your current location relative to your vehicle.
+                      <strong>Location Data:</strong> Parkked requires access to your device’s <strong>Precise Location</strong> to pin your car’s position and show your current location relative to your vehicle.
                     </li>
                     <li>
                       <strong>No Server Storage:</strong> We do <strong>not</strong> collect, store, or transmit your location data to any external servers. All coordinates and parking pins are stored locally on your device.
                     </li>
                     <li>
-                      <strong>No Accounts:</strong> You are not required to create an account or provide any personal information (name, email, or phone number) to use WhereMyCar.
+                      <strong>No Accounts:</strong> You are not required to create an account or provide any personal information (name, email, or phone number) to use Parkked.
                     </li>
                   </ul>
                 </div>
@@ -41,7 +41,7 @@ export default function WhereMyCarPrivacy() {
                 <div>
                   <h2 className="text-2xl font-semibold text-gray-800 mb-3">2. Third-Party Services</h2>
                   <p>
-                    <strong>Navigation:</strong> When you request directions, WhereMyCar passes your saved coordinates to your choice of third-party maps (e.g., Google Maps or Apple Maps). These services operate under their own independent privacy policies.
+                    <strong>Navigation:</strong> When you request directions, Parkked passes your saved coordinates to your choice of third-party maps (e.g., Google Maps or Apple Maps). These services operate under their own independent privacy policies.
                   </p>
                 </div>
 
@@ -64,13 +64,13 @@ export default function WhereMyCarPrivacy() {
               <div className="space-y-6 text-gray-700 leading-relaxed">
                 <div>
                   <h2 className="text-2xl font-semibold text-gray-800 mb-3">1. Acceptance of Terms</h2>
-                  <p>By downloading or using WhereMyCar, you agree to these terms. If you do not agree, please do not use the application.</p>
+                  <p>By downloading or using Parkked, you agree to these terms. If you do not agree, please do not use the application.</p>
                 </div>
 
                 <div>
                   <h2 className="text-2xl font-semibold text-gray-800 mb-3">2. User Responsibilities & Disclaimer</h2>
                   <ul className="list-disc pl-5 space-y-3 font-medium text-gray-800">
-                    <li><strong>Parking Fines:</strong> WhereMyCar is a reminder tool only. We are NOT responsible for parking tickets, fines, towing fees, or legal penalties.</li>
+                    <li><strong>Parking Fines:</strong> Parkked is a reminder tool only. We are NOT responsible for parking tickets, fines, towing fees, or legal penalties.</li>
                     <li><strong>GPS Accuracy:</strong> Location precision can be affected by environment (buildings, garages). We do not guarantee 100% precision.</li>
                     <li><strong>Device Reliability:</strong> You are responsible for ensuring your device is powered on and notifications are enabled.</li>
                   </ul>
@@ -79,14 +79,14 @@ export default function WhereMyCarPrivacy() {
                 <div>
                   <h2 className="text-2xl font-semibold text-gray-800 mb-3">3. Limitation of Liability</h2>
                   <p>
-                    To the maximum extent permitted by law, WhereMyCar and its developers shall not be liable for any loss of property, vehicle damage, or incidental damages resulting from the use of this application.
+                    To the maximum extent permitted by law, Parkked and its developers shall not be liable for any loss of property, vehicle damage, or incidental damages resulting from the use of this application.
                   </p>
                 </div>
               </div>
             </section>
 
             <footer className="mt-20 pt-8 border-t border-gray-100 text-center text-gray-400 text-sm">
-              &copy; {new Date().getFullYear()} WhereMyCar App. All rights reserved.
+              &copy; {new Date().getFullYear()} Parkked App. All rights reserved.
             </footer>
           </div>
         </div>
