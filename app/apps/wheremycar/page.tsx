@@ -21,7 +21,7 @@ const features = [
   },
 ];
 
-export default function Findgo() {
+export default function WhereMyCar() {
   return (
     <>
       {/* Hero */}
@@ -61,7 +61,7 @@ export default function Findgo() {
         <div className="mt-12 flex justify-center">
           <Image
             src="/assets/mockup-hero.png"
-            alt="FindGo app screenshot"
+            alt="WhereMyCar app screenshot"
             width={700} height={1000}
             className="drop-shadow-2xl"
           />
@@ -86,10 +86,10 @@ export default function Findgo() {
       {/* Footer */}
       <footer className="border-t border-border">
         <div className="container flex flex-col items-center gap-4 py-8 text-sm text-muted-foreground md:flex-row md:justify-between">
-          <p>&copy; {new Date().getFullYear()} FindGo. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} WhereMyCar. All rights reserved.</p>
           <div className="flex gap-6">
-            <a href="/apps/findgo/privacy" className="hover:text-foreground transition">Privacy Policy</a>
-            <a href="/apps/findgo/privacy#terms" className="hover:text-foreground transition">Terms of Service</a>
+            <a href="/apps/wheremycar/privacy" className="hover:text-foreground transition">Privacy Policy</a>
+            <a href="/apps/wheremycar/privacy#terms" className="hover:text-foreground transition">Terms of Service</a>
           </div>
         </div>
       </footer>
