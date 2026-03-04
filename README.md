@@ -1,36 +1,73 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+```text
+███╗   ███╗ █████╗ ██████╗ ███████╗██████╗ ██╗   ██╗ ██████╗ ██╗   ██╗██╗███████╗
+████╗ ████║██╔══██╗██╔══██╗██╔════╝██╔══██╗╚██╗ ██╔╝██╔════╝ ██║   ██║██║██╔════╝
+██╔████╔██║███████║██║  ██║█████╗  ██████╔╝ ╚████╔╝ ██║  ███╗██║   ██║██║█████╗  
+██║╚██╔╝██║██╔══██║██║  ██║██╔══╝  ██╔══██╗  ╚██╔╝  ██║   ██║██║   ██║██║██╔══╝  
+██║ ╚═╝ ██║██║  ██║██████╔╝███████╗██████╔╝   ██║   ╚██████╔╝╚██████╔╝██║███████╗
+╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚═════╝    ╚═╝    ╚═════╝  ╚═════╝ ╚═╝╚══════╝
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Madebyguie
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Designing systems. Building products. Shipping experiences.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 👋 About
 
-To learn more about Next.js, take a look at the following resources:
+I’m a **Design Engineer** focused on bridging design and development into one continuous workflow.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Currently working as **UX/UI Lead**
+- Former **Technical Lead** of a Frontend team
+- Designed and built web experiences for non-profits
+- Turning complex problems into usable, scalable products
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🛠 What I Do
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Web Design  
+- Product Design  
+- UX Strategy  
+- UI Systems  
+- Design Systems  
+- Frontend Architecture  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+From research → wireframes → high-fidelity design → production code.
+
+---
+
+## ⚙️ Tools & Stack
+
+- Figma  
+- WordPress  
+- Front-end Development  
+- React  
+- Modern CSS  
+- Component Systems  
+- Performance Optimization  
+
+---
+
+## 🚀 What You’ll Find Here
+
+This is my digital lab.
+
+- Experiments  
+- Production-ready apps  
+- Online tools  
+- UI systems  
+- Case studies  
+- Open ideas  
+
+Everything here is designed with intent and built to ship.
+
+---
+
+## 📬 Connect
+
+If you're building something meaningful and need someone who can think in systems and ship in code — (let's collaborate)[mailto:madebyguie@gmail.com].
+
+---
+
+> Designed. Engineered. Delivered.
