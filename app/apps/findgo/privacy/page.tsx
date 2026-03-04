@@ -1,25 +1,8 @@
 "use client";
 
-import Link from "next/link";
-import Image from "next/image";
-
 export default function Findgo() {
   return (
-    <div className="min-h-screen bg-background">
-      {/* Nav */}
-      <nav className="container flex items-center justify-between py-5 sticky top-6 z-50 bg-background/70 backdrop-blur-sm rounded-full">
-        <div className="flex items-center gap-2.5">
-          <Link href="/apps/findgo" className="flex items-center gap-2.5">
-            <Image 
-              src="/assets/logo.svg" 
-              alt="FindGo" 
-              width={40} height={40}
-              />
-            <span className="text-xl font-semibold text-foreground">FindGo</span>
-          </Link>
-        </div>
-      </nav>
-      
+    <>
       <main className="">
         <div className="max-w-4xl mx-auto px-6 py-12 bg-gray-50 min-h-screen">
           <div>
@@ -108,6 +91,6 @@ export default function Findgo() {
           </div>
         </div>
       </main>
-    </div>
+    </>
   )
 }

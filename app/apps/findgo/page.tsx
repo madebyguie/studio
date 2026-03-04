@@ -2,8 +2,6 @@
 
 import { MapPin, Clock, Navigation } from "lucide-react";
 import Image from "next/image";
-import Link from "next/link";
-import { usePathname } from "next/navigation";
 
 const features = [
   {
@@ -25,27 +23,7 @@ const features = [
 
 export default function Findgo() {
   return (
-    <div className="min-h-screen bg-background">
-      {/* Nav */}
-      <nav className="container flex items-center justify-between py-5 sticky top-6 z-50 bg-background/70 backdrop-blur-sm rounded-full">
-          <div className="flex items-center gap-2.5">
-            <Link href={usePathname()} className="flex items-center gap-1">
-              <Image 
-                src="/assets/logo.svg" 
-                alt="FindGo" 
-                width={40} height={40}
-                />
-              <span className="text-xl font-semibold text-foreground">FindGo</span>
-            </Link>
-          </div>
-          <a
-            href="#download"
-            className="rounded-full bg-primary px-5 py-2 text-sm font-medium text-primary-foreground transition hover:opacity-90"
-          >
-            Download
-          </a>
-      </nav>
-
+    <>
       {/* Hero */}
       <section className="container pb-20 pt-12 text-center md:pt-20">
         <h1 className="mx-auto max-w-2xl text-4xl font-bold leading-tight tracking-tight text-foreground md:text-5xl">
@@ -115,6 +93,6 @@ export default function Findgo() {
           </div>
         </div>
       </footer>
-    </div>
+    </>
   );
 };
